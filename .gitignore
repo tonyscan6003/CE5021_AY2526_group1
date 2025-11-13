@@ -2,4 +2,4 @@
 .vscode
 data
 runs
-.pt
+*.pt
